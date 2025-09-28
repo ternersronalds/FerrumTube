@@ -14,4 +14,12 @@ See [LICENSE](./license) for details.
 Contributions are welcome! Please open issues or pull requests for suggestions and improvements.
 
 ## Disclaimer
-This tool is intended for personal and commercial use, but redistribution or sale of FerrumTube is not permitted. Please respect YouTube's Terms of Service when downloading content.
+This tool is intended for personal and commercial use, but sale of FerrumTube is not permitted. Please respect YouTube's Terms of Service when downloading content.
+
+
+
+# how to run
+
+1. make sure you have rust installed and cargo installed
+2. clone the repository
+3. run `cargo run download <url>` to download a video
